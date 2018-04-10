@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Popcorn Library</string>
+    <string name="movies_name">Movie title</string>
+    <string name="empty_list">Your list is still empty, enter some movies!</string>
+    <string name="movies_description">Movie description</string>
+    <string name="movies_url_image">Image URL</string>
+    <string name="setting">Settings</string>
+    <string name="show">Show</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="movieCreated">Movie Created</string>
+    <string name="edit">Edit</string>
+    <string name="watch">Have you watched it?</string>
+    <string name="What_Action">Choose Action</string>
+    <string name="go">GO</string>
+    <string name="search">Search</string>
+    <string name="add_net">Add by internet</string>
+    <string name="manually">Add manually</string>
+    <string name="exit">Exit</string>
+    <string name="delete_all">Delete all</string>
+    <string name="goToPage">Go To Page</string>
+    <string name="moviePage">Movie Page</string>
+    <string name="share">Share</string>
+    <string name="addMovie">addMovie</string>
+    <string name="delete">Delete</string>
+    <string name="random_movie">Random Movie</string>
+    <string name="toast">Movie title must be entered</string>
+
+
+</resources>

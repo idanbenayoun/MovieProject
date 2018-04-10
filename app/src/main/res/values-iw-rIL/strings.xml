@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popcorn Library</string>
+    <string name="movies_name">שם הסרט</string>
+    <string name="movies_description">תיאור הסרט</string>
+    <string name="movies_url_image">קישור לתמונה</string>
+    <string name="exit">יציאה</string>
+    <string name="show">הצג</string>
+    <string name="cancel">ביטול</string>
+    <string name="movieCreated">סרט נוצר</string>
+    <string name="What_Action">בחר פעולה</string>
+    <string name="edit">ערוך</string>
+    <string name="search">חיפוש</string>
+    <string name="go">התחל</string>
+    <string name="ok">אוקיי</string>
+    <string name="delete_all">מחק הכל</string>
+    <string name="moviePage">עמוד הסרט</string>
+    <string name="delete">מחק</string>
+    <string name="manually">הוסף ידנית</string>
+    <string name="add_net">הוסף דרך האינטרנט</string>
+    <string name="shares">שתף</string>
+    <string name="share">שתף</string>
+    <string name="random_movie">סרט רנדומלי</string>
+    <string name="toast">הכנס את שם הסרט.</string>
+    <string name="watch">האם ראית את הסרט?</string>
+    <string name="addMovie">הוסף סרט</string>
+    <string name="movie_is_list_empty">רשימת הסרטים ריקה</string>
+    <string name="setting">הגדרות</string>
+    <string name="goToPage">לך לעמוד הסרט</string>
+</resources>
